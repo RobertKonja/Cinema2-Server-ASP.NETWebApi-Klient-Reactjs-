@@ -25,6 +25,7 @@ state ={
      localhost   : "localhost:54820" , <=====change this  ================<<<                                              
      }\
      
- Run  Visual code ,terminal typing  :  npm start   \
+ Run  Visual code ,terminal typing  :- npm install    
+                           then     -  npm start   
  
  
